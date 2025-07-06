@@ -187,7 +187,7 @@ const posts = ref<Post[]>([
       avatar: "https://i.pravatar.cc/150?img=47"
     },
     location: "Brasília, Brasil",
-    imageUrl: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+    imageUrl: "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99",
     caption: "Participando de um hackathon incrível! #hackathon #tech",
     likes: 987,
     comments: 34,
